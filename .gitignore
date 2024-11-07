@@ -2,3 +2,4 @@
 .venv/
 .DS_Store
 .idea/
+core_logic/__pycache__/
